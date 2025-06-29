@@ -34,8 +34,8 @@ CodeCraft Intern is a comprehensive platform designed to showcase internship pro
 
 ## 🛠️ Technologies Used
 
-- **Frontend Framework:** [Add your framework - React/Next.js/Vue/etc.]
-- **Styling:** [Add styling solution - CSS/Tailwind/Styled Components/etc.]
+- **Frontend Framework:** [ React/Next.js/Vue/etc.]
+- **Styling:** [ CSS/Tailwind/Styled Components/etc.]
 - **Deployment:** Vercel
 - **Version Control:** Git & GitHub
 
