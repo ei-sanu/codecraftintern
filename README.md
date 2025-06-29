@@ -38,7 +38,6 @@ CodeCraft Intern is a comprehensive platform designed to showcase internship pro
 - **Styling:** [Add styling solution - CSS/Tailwind/Styled Components/etc.]
 - **Deployment:** Vercel
 - **Version Control:** Git & GitHub
-- **[Add other technologies used]**
 
 ## 🚦 Getting Started
 
