@@ -23,7 +23,7 @@ const Portfolio: React.FC = () => {
       id: 1,
       title: "CyberCipher",
       description: "Advanced encryption tools for the modern digital age. Secure your messages with military-grade Caesar cipher technology.",
-      image: "public/images/project1.png",
+      image: "/images/project1.png",
       liveLink: "https://cybercipherx.vercel.app",
       sourceCode: "https://github.com/ei-sanu/CyberCipherintern.git",
       technologies: ["React", "TypeScript", "Security"]
@@ -32,7 +32,7 @@ const Portfolio: React.FC = () => {
       id: 2,
       title: "Project Beta",
       description: "Advanced network monitoring system with real-time threat detection and automated response mechanisms.",
-      image: "https://images.pexels.com/photos/1181677/pexels-photo-1181677.jpeg?auto=compress&cs=tinysrgb&w=500",
+      image: "/images/project2.jpg",
       liveLink: "https://project-beta-demo.com",
       sourceCode: "https://github.com/ei-sanu/project-beta",
       technologies: ["Python", "Flask", "Docker", "ML"]
