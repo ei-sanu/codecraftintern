@@ -81,29 +81,6 @@ Make sure you have the following installed:
    
    Navigate to `http://localhost:3000` to view the application.
 
-## 🎮 Usage
-
-[Add specific usage instructions for your application]
-
-- Describe main features and how to use them
-- Include screenshots if applicable
-- Provide examples of key functionalities
-
-## 📁 Project Structure
-
-```
-codecraftintern/
-├── public/                 # Static files
-├── src/                   # Source code
-│   ├── components/        # React components
-│   ├── pages/            # Application pages
-│   ├── styles/           # CSS/SCSS files
-│   ├── utils/            # Utility functions
-│   └── ...
-├── package.json          # Dependencies and scripts
-├── README.md            # Project documentation
-└── ...
-```
 
 ## 🔧 Available Scripts
 
@@ -114,15 +91,6 @@ In the project directory, you can run:
 - `npm run start` - Runs the built app in production mode
 - `npm run lint` - Runs the linter to check code quality
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
