@@ -31,7 +31,7 @@ const Portfolio: React.FC = () => {
     {
       id: 2,
       title: "CrytptoImage",
-      description: "Advanced network monitoring system with real-time threat detection and automated response mechanism.",
+      description: "Advanced network monitoring system with real-time threat detection and automated response.",
       image: "/images/project2.jpg",
       liveLink: "https://project-beta-demo.com",
       sourceCode: "https://github.com/ei-sanu/project-beta",
