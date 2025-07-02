@@ -1,5 +1,5 @@
+import { AlertTriangle, CheckCircle, Lock, Shield } from 'lucide-react';
 import React, { useState } from 'react';
-import { Lock, Shield, CheckCircle, AlertTriangle } from 'lucide-react';
 
 interface VerificationModalProps {
   isOpen: boolean;
@@ -38,8 +38,8 @@ const VerificationModal: React.FC<VerificationModalProps> = ({ isOpen, onVerify,
           </div>
           <h2 className="text-2xl font-bold text-white mb-2">Security Verification</h2>
           <p className="text-gray-400 text-sm">
-            This portfolio is restricted to CodeCraft HR personnel only.
-            Enter the verification code to proceed.
+            This portfolio is restricted to authorized personnel only.
+            Please enter the verification code to proceed.
           </p>
         </div>
 
@@ -84,7 +84,7 @@ const VerificationModal: React.FC<VerificationModalProps> = ({ isOpen, onVerify,
 
         <div className="mt-6 text-center">
           <p className="text-xs text-gray-500">
-            Authorized access only • CodeCraft Internship Program
+            Authorized access only • Portfolio Projects
           </p>
         </div>
       </div>

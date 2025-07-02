@@ -18,6 +18,7 @@ const Portfolio: React.FC = () => {
     linkedin: 'https://linkedin.com/in/www.linkedin.com/in/somesh-biswal-b73576320'
   };
 
+  // Update project descriptions to remove company references
   const projects: Project[] = [
     {
       id: 1,
@@ -30,12 +31,12 @@ const Portfolio: React.FC = () => {
     },
     {
       id: 2,
-      title: "CrytptoImage",
-      description: "Advanced network monitoring system with real-time threat detection and automated response.",
-      image: "/images/project2.jpg",
-      liveLink: "https://project-beta-demo.com",
-      sourceCode: "https://github.com/ei-sanu/project-beta",
-      technologies: ["Python", "Flask", "Docker", "ML"]
+      title: "Password Strength Analyzer",
+      description: "",
+      image: "/images/project2.png",
+      liveLink: "https://passwordstrengthner.vercel.app/",
+      sourceCode: "https://github.com/ei-sanu/passwordstrengthner",
+      technologies: ["React", "TypeScript", "Security"]
     },
     {
       id: 3,
@@ -79,7 +80,7 @@ const Portfolio: React.FC = () => {
         />
       </div>
 
-      {/* Header */}
+      {/* Header - Updated title */}
       <header className="relative z-10 px-6 py-8">
         <div className="max-w-7xl mx-auto">
           <div className="flex items-center justify-between">
@@ -91,7 +92,7 @@ const Portfolio: React.FC = () => {
                 <h1 className="text-2xl font-bold bg-gradient-to-r from-violet-400 to-purple-400 bg-clip-text text-transparent">
                   Somesh Biswal
                 </h1>
-                <p className="text-gray-400 text-sm">CodeCraft Intern</p>
+                <p className="text-gray-400 text-sm">Security Researcher</p>
               </div>
             </div>
 
@@ -113,16 +114,16 @@ const Portfolio: React.FC = () => {
         </div>
       </header>
 
-      {/* Hero Section */}
+      {/* Hero Section - Updated content */}
       <section className="relative z-10 px-6 py-16">
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-8 animate-fade-up">
             <h2 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-violet-400 via-purple-400 to-violet-400 bg-clip-text text-transparent animate-gradient">
-              CodeCraft Internship
+              Internship Projects Showcase
             </h2>
             <p className="text-xl text-gray-300 mb-8 leading-relaxed">
               A comprehensive journey through cybersecurity and network safety,
-              showcasing advanced projects built during my internship at CodeCraft.
+              showcasing advanced projects focused on secure development practices.
             </p>
           </div>
 
@@ -172,14 +173,14 @@ const Portfolio: React.FC = () => {
         </div>
       </section>
 
-      {/* Learning Section */}
+      {/* Learning Section - Updated content */}
       <section className="relative z-10 px-6 py-16 bg-gradient-to-r from-gray-800/50 to-gray-900/50">
         <div className="max-w-4xl mx-auto text-center">
           <div className="bg-gray-800/30 backdrop-blur-sm p-8 rounded-2xl border border-gray-700">
             <Zap className="w-12 h-12 text-fuchsia-400 mx-auto mb-6 animate-pulse" />
             <h4 className="text-3xl font-bold text-white mb-6">Key Learnings</h4>
             <p className="text-gray-300 text-lg leading-relaxed mb-6">
-              During this intensive 16-day internship at CodeCraft, I gained comprehensive knowledge in:
+              During this intensive internship period, I gained comprehensive knowledge in:
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-left">
               <div className="space-y-2">
@@ -249,14 +250,14 @@ const Portfolio: React.FC = () => {
         </div>
       </section>
 
-      {/* Footer */}
+      {/* Footer - Updated content */}
       <footer className="relative z-10 px-6 py-8 border-t border-gray-800">
         <div className="max-w-7xl mx-auto text-center">
           <p className="text-gray-400 text-sm">
-            © 2025 Somesh Biswal • CodeCraft Internship Portfolio • All rights reserved
+            © 2025 Somesh Biswal • Internship Projects Portfolio • All rights reserved
           </p>
           <p className="text-gray-500 text-xs mt-2">
-            This portfolio is protected and accessible only to authorized CodeCraft personnel.
+            This portfolio showcases projects developed during my internship period.
           </p>
         </div>
       </footer>
