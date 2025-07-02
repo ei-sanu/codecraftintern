@@ -132,7 +132,7 @@ const Portfolio: React.FC = () => {
             <Calendar className="w-5 h-5 text-purple-400" />
             <span className="font-mono text-sm">
               <span className="text-gray-400">Duration:</span>
-              <span className="text-white ml-2">30-06-2025 to 15-07-2025</span>
+              <span className="text-white ml-2">1 Month</span>
             </span>
           </div>
 
