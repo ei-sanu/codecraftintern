@@ -38,7 +38,7 @@ const Loader: React.FC<LoaderProps> = ({ isLoading }) => {
             }}></div>
         </div>
 
-        <p className="text-gray-400 mt-4 font-mono">Initializing Project Portfolio...</p>
+        <p className="text-gray-400 mt-4 font-mono">Initializing Project Portfolio..!!</p>
       </div>
 
       <style jsx>{`
