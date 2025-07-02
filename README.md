@@ -1,4 +1,5 @@
-# CodeCraft Intern
+# INTERNS PROJECT SHOWCASE
+
 
 A modern web application showcasing internship projects and coding skills development platform.
 
@@ -43,53 +44,6 @@ CodeCraft Intern is a comprehensive platform designed to showcase internship pro
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-Make sure you have the following installed:
-- Node.js (version 14 or higher)
-- npm or yarn package manager
-- Git
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/ei-sanu/codecraftintern.git
-   ```
-
-2. **Navigate to the project directory**
-   ```bash
-   cd codecraftintern
-   ```
-
-3. **Install dependencies**
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-4. **Start the development server**
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
-
-5. **Open your browser**
-   
-   Navigate to `http://localhost:3000` to view the application.
-
-
-## 🔧 Available Scripts
-
-In the project directory, you can run:
-
-- `npm run dev` - Runs the app in development mode
-- `npm run build` - Builds the app for production
-- `npm run start` - Runs the built app in production mode
-- `npm run lint` - Runs the linter to check code quality
-
 
 ## 📝 License
 
@@ -100,9 +54,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **SOMESH BISWAL** - [someshranjanbiswal13678@gmail.com]
 
 - GitHub: [@ei-sanu](https://github.com/ei-sanu)
-- Project Link: [https://github.com/ei-sanu/codecraftintern](https://github.com/ei-sanu/codecraftintern)
-- Live Demo: [https://codecraftinternsanu.vercel.app/](https://codecraftinternsanu.vercel.app/)
-
+- Project Link: https://github.com/ei-sanu/intershipprojects.git
+- Live Demo: [https](https://intershipprojects.vercel.app/)
 ## 🙏 Acknowledgments
 
 - [Add any acknowledgments, inspirations, or resources used]
