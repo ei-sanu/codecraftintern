@@ -55,7 +55,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - GitHub: [@ei-sanu](https://github.com/ei-sanu)
 - Project Link: https://github.com/ei-sanu/intershipprojects.git
-- Live Demo: [https](https://intershipprojects.vercel.app/)
+- Live Demo: [Check here!! ](https://intershipprojects.vercel.app/)
 ## 🙏 Acknowledgments
 
 - [Add any acknowledgments, inspirations, or resources used]
