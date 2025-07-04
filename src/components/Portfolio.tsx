@@ -18,7 +18,7 @@ const Portfolio: React.FC = () => {
     linkedin: 'https://linkedin.com/in/www.linkedin.com/in/somesh-biswal-b73576320'
   };
 
-  // Update project descriptions to remove company references
+
   const projects: Project[] = [
     {
       id: 1,
@@ -32,7 +32,7 @@ const Portfolio: React.FC = () => {
     {
       id: 2,
       title: "Password Strength Analyzer",
-      description: "",
+      description: "Advanced security tools powered by AI technology. Protect your digital identity with enterprise-grade security.",
       image: "/images/project2.png",
       liveLink: "https://passwordstrengthner.vercel.app/",
       sourceCode: "https://github.com/ei-sanu/passwordstrengthner",
