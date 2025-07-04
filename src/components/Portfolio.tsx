@@ -27,7 +27,7 @@ const Portfolio: React.FC = () => {
       image: "/images/project1.png",
       liveLink: "https://cybercipherx.vercel.app",
       sourceCode: "https://github.com/ei-sanu/CyberCipherintern.git",
-      technologies: ["React", "TypeScript", "Security"]
+      technologies: ["React", "TypeScript", "Security","Safety Tools"]
     },
     {
       id: 2,
@@ -36,16 +36,16 @@ const Portfolio: React.FC = () => {
       image: "/images/project2.png",
       liveLink: "https://passwordstrengthner.vercel.app/",
       sourceCode: "https://github.com/ei-sanu/passwordstrengthner",
-      technologies: ["React", "TypeScript", "Security"]
+      technologies: ["React", "TypeScript", "Security","Analyzer"]
     },
     {
       id: 3,
-      title: "Project Gamma",
-      description: "Secure data encryption and decryption service with blockchain integration for enhanced data integrity.",
-      image: "https://images.pexels.com/photos/1181712/pexels-photo-1181712.jpeg?auto=compress&cs=tinysrgb&w=500",
-      liveLink: "https://project-gamma-demo.com",
-      sourceCode: "https://github.com/ei-sanu/project-gamma",
-      technologies: ["Blockchain", "Solidity", "Web3", "Encryption"]
+      title: "CryptoImage",
+      description: "Professional Image Encryption and Decryption Tool. Secure your images with advanced cryptographic techniques.",
+      image: "images/project3.png",
+      liveLink: "https://cryptoimage.vercel.app/",
+      sourceCode: "https://github.com/ei-sanu/cryptoimage",
+      technologies: ["TypeScript", "Security", "React", "Encryption","Decryption"]
     },
     {
       id: 4,
