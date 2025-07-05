@@ -49,12 +49,12 @@ const Portfolio: React.FC = () => {
     },
     {
       id: 4,
-      title: "Project Delta",
-      description: "AI-powered vulnerability assessment tool with automated penetration testing capabilities.",
-      image: "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=500",
-      liveLink: "https://project-delta-demo.com",
-      sourceCode: "https://github.com/ei-sanu/project-delta",
-      technologies: ["AI/ML", "Python", "TensorFlow", "Security"]
+      title: "Cyberguard Pro",
+      description: "Educational tool to demonstrate how keyloggers work and raise awareness about this cybersecurity threat",
+      image: "images/project4.png",
+      liveLink: "https://cyberkeylog.vercel.app/",
+      sourceCode: "https://github.com/ei-sanu/cyberkeylog.git",
+      technologies: ["Awareness", "Keylogger", "TCSS", "Security"]
     }
   ];
 
